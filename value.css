@@ -1,0 +1,15 @@
+/*.text-box p::before,
+.text-box p::after{
+    content: "";
+    display: block;
+    height: 1px;
+    background-color: currentColor;
+}*/
+.sec-04 .container .text-box{
+    position: relative;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    background: #001a33;
+    color: #b2935f;
+}
